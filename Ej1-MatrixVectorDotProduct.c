@@ -3,6 +3,7 @@
 /*
 Observación: Los arreglos  definidos por malloc son distintos a los arreglos definidos por arr[i][j],
 	los primeros están disperados a lo largo de la memoria, en el segundo los espacios de memoria de estám juntos.
+Cambio sin importancia
 */
 
 void ver_matriz(float** matriz, int n, int m){
